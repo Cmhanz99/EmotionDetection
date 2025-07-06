@@ -1,4 +1,4 @@
-# Emotion Detection Website
+# Emotion Detection 
 
 This is a simple command-line emotion detection project using Python, scikit-learn, and a Naive Bayes classifier. The model predicts the user's emotion based on their text input and provides feedback with an accuracy score.
 
